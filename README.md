@@ -1,6 +1,8 @@
 # Tools make code easy.
-## AutoFill
-**[Robohash (Prototype)](https://robohash.org)**: Generating unique images.
+## Prototyping
+**[Robohash](https://robohash.org)**: Generating unique images.
+**[jsonplaceholder](https://robohash.org)**: Fake online REST API.
+
 
 ## CSS
 **[tachyons](https://tachyons.io/)**: Less code and time to implement CSS.
