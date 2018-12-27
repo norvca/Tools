@@ -1,7 +1,7 @@
 # Tools make code easy.
 ## Prototyping
 - **[Robohash](https://robohash.org)**: Generating unique images.
-- **[Jsonplaceholder](https://robohash.org)**: Fake online REST API.
+- **[Jsonplaceholder](https://jsonplaceholder.typicode.com)**: Fake online REST API.
 
 
 ## CSS
