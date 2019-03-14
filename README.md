@@ -11,3 +11,4 @@
 ### Image
 - **[JPEG-Optimizer](http://jpeg-optimizer.com/)**: Optimize the JPEG file
 - **[TinyPNG](https://tinypng.com/)**: Optimize the PNG file
+- **[VerExif](https://www.verexif.com/)**: Remove exif data
